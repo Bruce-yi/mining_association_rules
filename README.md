@@ -7,5 +7,5 @@ the dataset used for mining is Wine Reviews 130k in Kaggle and you can download 
 
 Requirement
 ---
-. prettytable
+- prettytable
 
